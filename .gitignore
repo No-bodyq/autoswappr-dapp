@@ -43,3 +43,5 @@ next-env.d.ts
 # Ignore lock files
 package-lock.json
 pnpm-lock.yaml
+temp_auto_push.bat
+temp_interactive_push.bat
